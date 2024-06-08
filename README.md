@@ -19,6 +19,7 @@
 Run the script:
 ```bash
 python Scrape_Image.py
+```
 
 ## Method 2: Using `Scrape.py`
 
@@ -42,3 +43,5 @@ python Scrape_Image.py
 Run the script:
 ```bash
 python Scrape.py
+```
+
